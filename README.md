@@ -16,3 +16,5 @@
 <p>&nbsp;<img align="center" src="https://readme-stats.clckblog.space/api?username=alexinabox&show_icons=true&theme=cobalt&locale=en" alt="alexinabox" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexinabox&theme=dark" alt="alexinabox" /></p>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/428870593358594048?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/428870593358594048)
