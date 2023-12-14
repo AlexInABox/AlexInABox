@@ -1,20 +1,136 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexinabox&label=Profile%20views&color=65a82e&style=flat" alt="alexinabox" /> </p>
+<h1
+    align="center">
+    <code>Hi there! I'm AlexInABox 👋</code>
+</h1>
 
-<p align="left"> <a href="https://twitter.com/wilder_alex__" target="blank"><img src="https://img.shields.io/twitter/follow/wilder_alex__?logo=twitter&style=for-the-badge" alt="wilder_alex__" /></a> </p>
+<h3
+    align="center"
+    style="font-weight: bold">
+    About Me
+</h3>
+    
+```c
+struct Cute {
+    const char* role;
+    short age;
+    const char* studying[1];
+    const char* interests[3];
+    const char* loves[1];
+};
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/wilder_alex__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wilder_alex__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alexinabox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexinabox" height="30" width="40" /></a>
-</p>
+int main() {
+    struct Cute = {
+        .role = "CS Student working for the police of Berlin 🕵️‍♂️",
+        .age = 18,
+        .studying = {"Computer Science"},
+        .interests = {"Kittens", "Programming", "Friends"},
+        .loves = {"Kitties!!!"}
+    };
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+    return ❤️;
+}
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexinabox&show_icons=true&theme=cobalt&locale=en&layout=compact&exclude_repo=privacykitty" alt="alexinabox" /></p>
+<details open>
 
-<p>&nbsp;<img align="center" src="https://readme-stats.clckblog.space/api?username=alexinabox&show_icons=true&theme=cobalt&locale=en" alt="alexinabox" /></p>
+<summary align="center">
+    <h3>Languages</h3>
+</summary>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexinabox&theme=dark" alt="alexinabox" /></p>
+<div
+    align="center"
+    style="margin-block: 1.5em">
+    <div
+        style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
+        <img
+            src="https://skillicons.dev/icons?i=nodejs,java,c,cs,r,postgresql&theme=dark" />
+    </div>
+</div>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/428870593358594048?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/428870593358594048)
+</details>
+
+<details open style="margin-bottom: 1em">
+
+<summary align="center">
+    <h3>Tools</h3>
+</summary>
+
+<div
+    align="center"
+    style="margin-block: 1.5em">
+    <div
+        style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; flex-direction: column; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
+        <img
+            src="https://skillicons.dev/icons?i=linux,raspberrypi,docker,postman,unity,vim,vscode,idea,git&theme=dark&perline=3" />
+    </div>
+</div>
+
+</details>
+
+#
+
+<h3
+    align="center"
+    style="font-weight: bold">
+    Projects
+</h3>
+
+<details open>
+
+<summary align="center">
+    <h5>These are some of the projects I am more or less actively working on!</h5>
+</summary>
+
+<div align="center">
+
+| Project | Description | View More |
+| ------- | ----------- | --------- |
+| **custom-hds** | A self-written Node.js server that regularly fetches data about me from different sources like heart rate, Netflix last watched, YouTube last watched, YTMusic, Duolingo, etc. | [![view]](https://github.com/AlexInABox/custom-hds) |
+| **CursorConnect** | A Chrome extension that allows you to see others' cursors on the website you're on in real-time (assuming they also have it installed). | [![view]](https://github.com/AlexInABox/cursorConnect) |
+
+</div>
+
+</details>
+
+<details open>
+
+<summary align="center">
+    <h3>Statistics</h3>
+</summary>
+
+<div
+    align="center"
+    style="margin-block: 1em">
+        <a
+            href="https://discord.com/users/428870593358594048">
+            <img
+                src="https://lanyard.cnrad.dev/api/428870593358594048?borderRadius=10px&animated=:true&bg=282A3682&idleMessage=AlexInABox+is+not+doing+anything+right+now+:c" />
+        </a>
+        <br>
+        <img
+            style="margin-top: 1em"
+            src="https://komarev.com/ghpvc/?username=AlexInABox&style=plastic&color=ffb3e5&label=Profile Views+<3" alt="Profile Views" />
+</div>
+
+#
+
+<table
+    align="center">
+    <tr
+        align="center">
+        <td
+            align="center"
+            style="width: 50%;">
+            <img
+                src="https://github-readme-stats.vercel.app/api/?username=AlexInABox&show_icons=true&hide_border=true&hide_title=false&count_private=true&title_color=ffb3e5&text_color=fff0f9&icon_color=ffb3e5&bg_color=282A3682&border_radius=20" />
+        </td>
+        <td
+            align="center"
+            style="width: 50%;">
+            <img
+                src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=AlexInABox&layout=compact&show_icons=true&hide_border=true&count_private=true&title_color=ffb3e5&text_color=fff0f9&icon_color=ffb3e5&bg_color=282A3682&border_radius=25" />
+        </td>
+    </tr>
+</table>
+
+[view]: https://img.shields.io/badge/view-ffb2e5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAACXBIWXMAAAsTAAALEwEAmpwYAAADyUlEQVR4nO2cTYiVVRjHfzednBxHCrHoUxTd6SgiYrlsodIXEQjS2lwYogtJpI2LxMGvXDXoJjIUDUskopqmdBzToChb6Cgx6iKX6TQZqOM8ceBAl2HGmXfmfDzve58f/Df3Dvc+//+d+97znvOcA4ZhGIZhGIZhGIZhGMZ4mAm8DuwDOoEbwC1AgAHgT6AL2A+8BjwWIdbp/rU/BL4Hbvr3Fl/LdeBbYK//u9YyfbQrgSPAv96QjFP9wEFgboAa5gGHgL8L1nAH+BR4EcUsAX4oaExG0D2gA3h2AjU85z+sewHq+A5oQxFNQDswGMCc1Ml9tdcVqONt4HbgGu4DO4GpZOYp4MfA5mSYPgGaH1KDe+5w5Bp6gNlkYg5wNbJB8ToDPDFCDe6x7kQ1XAFeSB3ykwlDFq9fgceHhXwxcQ1XUv5nNyW4XMhDvsLNXucy1dCd6prdnsmgeB3yylnDB7FDXuR/iaXBdR9YHDPoEONkqYjc3W4UVigwJ8r0UoygjygwJsrkxu/BJ4iKzl00gv4BZoQM+g0FpkSpXgkZ9D4FhkSp9oQMulOBIVGqr0MGfU2BIVGqvpBBF51AbyTdDhm03Q0yatAum2CEnlCXCumvkEH3KTAkSvVHyKB/UWBIlOqnkEF/ocCQKNWJkEG/r8CQKNW2kEGvUmBIlOrlkEHPAh4oMCXKNDjKovGkOKvAmCiTWwgJzmYFxkSZ3o0RtGu3GlJgTpTIXUqfIRJdCgyKErku1Gi8qsCgKNGamEHXgMsKTEpmuY6lR4jMBgVGJbPWkwDXDnVJgVnJpF7fFpeEtxQYlkxy20WSUcvY6CgZ5dqHk9MWaAuDlER3gYVkYqeCACSRdpCRaQ3yw9g7xvaOJCyv+CXkLrAMJWxVEIhE0hYU4UYhpxSEIoH1lfemitkV62jq8wseKlnsW1ml5Brw20hU82bJ562HgLWUhO0KApMJytVeKg4oCE0K6iNKiJuv/UxBeDJOnQSmUFKa/ZKPKNc3/i631ExXvj/RbXtuoSK0Kp1W7Qm9q0oDLcr2wpwu2xlKRZgGfK4g5C8jHZaliqnAxxlDPppyzU/D0O9ghpA7UrQJaKMG7E4YcrvGmbiUvBN515drrd2U26QWVvkDBmPMwrkTGo06FvljNUOF7I7kXFr/Bsb/PA38HCDk34Dn617XGOXG5vgkQj5WpVvq2NSA9woew+km7Hc1+shioqz2W4DHCrk/dU9cFVkwxomNvwPzcxdZFZqAjcB5v/jrznm+4B97NHdxhmEYhmEYhmEYhmEYNBj/AcBVJqVGsTFDAAAAAElFTkSuQmCC
