@@ -128,7 +128,7 @@ int main() {
             align="center"
             style="width: 50%;">
             <img
-                src="https://komarev.com/ghpvc/?username=alexinabox&label=Profile%20views&color=ffb2e5&style=flat" />
+                src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=AlexInABox&layout=compact&show_icons=true&hide_border=true&count_private=true&title_color=ffb3e5&text_color=fff0f9&icon_color=ffb3e5&bg_color=282A3682&border_radius=25" />
         </td>
     </tr>
 </table>
