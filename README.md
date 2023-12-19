@@ -113,7 +113,7 @@ int main() {
         <br>
         <img
             style="margin-top: 1em"
-            src="https://komarev.com/ghpvc/?username=AlexInABox&style=plastic&color=ffb3e5&label=Profile Views+<3" alt="Profile Views" />
+            src="https://komarev.com/ghpvc/?username=alexinabox&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 #
