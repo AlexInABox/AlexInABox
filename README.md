@@ -21,7 +21,7 @@ struct Cute {
 int main() {
     struct Cute = {
         .role = "CS Student working for the police of Berlin 🕵️‍♂️",
-        .age = 18,
+        .age = 19,
         .studying = {"Computer Science"},
         .interests = {"Kittens", "Programming", "Friends"},
         .loves = {"Kitties!!!"}
