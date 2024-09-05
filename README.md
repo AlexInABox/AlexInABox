@@ -105,11 +105,6 @@ int main() {
 <div
     align="center"
     style="margin-block: 1em">
-        <a
-            href="https://discord.com/users/428870593358594048">
-            <img
-                src="https://lanyard.cnrad.dev/api/428870593358594048?borderRadius=10px&animated=:true&bg=282A3682&idleMessage=AlexInABox+is+not+doing+anything+right+now+:c" />
-        </a>
         <br>
         <img
             style="margin-top: 1em"
