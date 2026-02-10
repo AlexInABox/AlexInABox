@@ -1,0 +1,25 @@
+name: Happy Birthday
+
+on:
+  schedule:
+    - cron: "0 2 17 4 *" # this is my birthday even ^^
+
+permissions:
+  contents: write
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Update ages in README
+        run: |
+          perl -pi -e 's/\.age = (\d+)/".age = ".($1+1)/ge' README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Happy Birthday! 🎉" || true
+          git push
